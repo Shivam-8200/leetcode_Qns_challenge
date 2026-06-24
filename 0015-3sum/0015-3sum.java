@@ -19,7 +19,7 @@ class Solution {
                 // left pe duplicate skip
                while (left < right && nums[left] == nums[left + 1]) left++;
                 // right pe duplicate skip
-               // while (left < right && nums[right] == nums[right - 1]) right--;
+                while (left < right && nums[right] == nums[right - 1]) right--;
 
                 left++;
                 right--;
