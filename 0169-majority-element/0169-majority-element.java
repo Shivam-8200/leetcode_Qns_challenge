@@ -10,7 +10,7 @@ for(int num : nums){
     }
     
     if(map.get(num) > nums.length / 2){
-        return num;  // mil gaya!
+        return num;  
     }
 }
 return -1;
