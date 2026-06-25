@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3699-number-of-zigzag-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
