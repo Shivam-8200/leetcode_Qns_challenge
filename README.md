@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Segment Tree
 |  |
@@ -78,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
