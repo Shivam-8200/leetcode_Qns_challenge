@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -56,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
