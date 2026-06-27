@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
