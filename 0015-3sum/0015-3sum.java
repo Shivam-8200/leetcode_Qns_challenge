@@ -1,20 +1,33 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-   Arrays.sort(nums);
-Set<List<Integer>> result = new HashSet<>(); // duplicates automatically handle!
+    List<List<Integer>> result = new ArrayList<>();
+    Arrays.sort(nums);
 
-for(int i = 0; i < nums.length-1; i++){
-    int L = i+1, R = nums.length-1;
-    while(L < R){
-        int sum = nums[i] + nums[L] + nums[R];
-        if(sum == 0){
-            result.add(Arrays.asList(nums[i], nums[L], nums[R]));
-            L++; R--;
+    for (int i = 0; i < nums.length - 1; i++) {
+        // i pe duplicate skip
+        if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+        int left = i + 1;
+        int right = nums.length - 1;
+
+        while (left < right) {
+            int sum = nums[i] + nums[left] + nums[right];
+
+            if (sum == 0) {
+                result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+
+                // left pe duplicate skip
+                while (left < right && nums[left] == nums[left + 1]) left++;
+                // right pe duplicate skip
+                while (left < right && nums[right] == nums[right - 1]) right--;
+
+                left++;
+                right--;
+            }
+            else if (sum < 0) left++;
+            else right--;
         }
-        else if(sum < 0) L++;
-        else R--;
     }
-}
-return new ArrayList<>(result);
+    return result;
 }
 }
