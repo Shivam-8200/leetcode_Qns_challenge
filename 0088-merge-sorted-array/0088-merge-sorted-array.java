@@ -7,13 +7,13 @@ class Solution {
         while(i >= 0 && j >= 0){
             if(nums1[i] < nums2[j]){
                nums1[k] = nums2[j];
-                j--;
+                j--;k--;
             } else {
                 
                  nums1[k] = nums1[i];
-                i--;
+                i--;k--;
             }
-            k--;
+            
         }
 
         while(j >= 0){
@@ -23,3 +23,10 @@ class Solution {
         }
     }
 }
+// // nums2 ke elements nums1 mein daalo
+//for(int i = 0; i < n; i++){
+  //  nums1[m + i] = nums2[i];  // 0s ki jagah!
+//}
+
+// sort karo!
+//Arrays.sort(nums1);
