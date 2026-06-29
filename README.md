@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
