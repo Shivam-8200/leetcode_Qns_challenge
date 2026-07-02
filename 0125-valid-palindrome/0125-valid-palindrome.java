@@ -8,7 +8,8 @@ class Solution {
             } else if (!Character.isLetterOrDigit(s.charAt(j))) {
                 j--;
             } else {
-                if (Character.toLowerCase(s.charAt(i)) != Character.toLowerCase(s.charAt(j))) {
+                if (Character.toLowerCase(s.charAt(i)) != 
+                    Character.toLowerCase(s.charAt(j))) {
                     return false;
                 }
                 i++;
@@ -16,6 +17,5 @@ class Solution {
             }
         }
         return true;
-
     }
 }
