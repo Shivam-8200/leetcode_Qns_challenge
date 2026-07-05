@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0567-permutation-in-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -118,8 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
