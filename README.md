@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Segment Tree
 |  |
 | ------- |
