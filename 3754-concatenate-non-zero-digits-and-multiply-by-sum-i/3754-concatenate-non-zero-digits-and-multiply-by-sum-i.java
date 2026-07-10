@@ -11,7 +11,7 @@ class Solution {
                 x += digit * place;
                 place = place * 10;
             }
-            n = n / 10;
+            n = n / 10;  // 102030004/4=1020300
         }
         return 1L * x * sum; // <- L = long hai
     }
