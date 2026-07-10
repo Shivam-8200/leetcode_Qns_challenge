@@ -16,3 +16,20 @@ class Solution {
         return 1L * x * sum; // <- L = long hai
     }
 }
+
+
+
+/*
+String s = String.valueOf(n);
+int x = 0;
+int sum = 0;
+
+for(char c : s.toCharArray()){
+    int digit = c - '0';
+    sum += digit;
+    if(digit != 0){
+        x = x * 10 + digit;  // left to right concatenation!
+    }
+}
+return 1L * x * sum;
+*/
