@@ -4,7 +4,7 @@ class Solution {
         int x = 0;
         int sum = 0;
         while (n > 0) {
-            int digit = n % 10;
+            int digit = n % 10;  // last digit nikalega like 10203004%10=4
             sum = sum + digit;
 
             if (digit != 0) {
