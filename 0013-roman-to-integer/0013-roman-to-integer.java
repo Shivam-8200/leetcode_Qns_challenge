@@ -1,35 +1,33 @@
 class Solution {
     public int romanToInt(String s) {
-Map<Character,Integer> map=new HashMap<>();
-        map.put('I',1);
-        map.put('V',5);
-        map.put('X',10);
-        map.put('L',50);
-        map.put('C',100);
-        map.put('D',500);
-        map.put('M',1000);
-        Stack<Integer> stack=new Stack<>();
-        char lastChar=' ';
-        for(char c:s.toCharArray()){
-            if(lastChar!=' '){
-                if(map.get(lastChar)<map.get(c)){
-                    if(!stack.isEmpty()){
-                        stack.push(map.get(c)-stack.pop());
-                        lastChar=c;
-                    }
-                }else{
-                    stack.push(map.get(c));
-                    lastChar=c;
-                }
-            }else{
-                stack.push(map.get(c));
-                lastChar=c;
+        int ans = 0;
+        int num = 0;
+        int prev = 0;
+
+        // Loop through the string from right to left
+        for (int i = s.length() - 1; i >= 0; i--) {
+            switch (s.charAt(i)) {
+                case 'I': num = 1; break;
+                case 'V': num = 5; break;
+                case 'X': num = 10; break;
+                case 'L': num = 50; break;
+                case 'C': num = 100; break;
+                case 'D': num = 500; break;
+                case 'M': num = 1000; break;
             }
+            
+            // If the current value is less than the previous value, subtract it
+            // (e.g., 'I' before 'V' -> 5 - 1 = 4)
+            if (num < prev) {
+                ans -= num;
+            } else {
+                ans += num;
+            }
+            
+            // Update the previous value for the next iteration
+            prev = num;
         }
-        int ans=0;
-        while(!stack.isEmpty()){
-            ans+=stack.pop();
-        }
+        
         return ans;
     }
 }
