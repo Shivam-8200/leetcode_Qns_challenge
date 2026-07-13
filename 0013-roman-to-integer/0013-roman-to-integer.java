@@ -1,31 +1,33 @@
 class Solution {
     public int romanToInt(String s) {
-        int result = 0;
         
-        for(int i = 0; i < s.length(); i++){
-            int curr = getValue(s.charAt(i));
-            int next = (i+1 < s.length()) ? getValue(s.charAt(i+1)) : 0;
+        // Step 1 - HashMap banao
+        HashMap<Character, Integer> map = new HashMap<>();
+        map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
+        
+        // Step 2 - right se left loop
+        int result = 0;
+        int prev = 0;
+        
+        for(int i = s.length()-1; i >= 0; i--){
+            int curr = map.get(s.charAt(i));  // current value
             
-            if(curr < next){
-                result -= curr;  // IV, IX case!
+            // Step 3 - compare karo
+            if(curr < prev){
+                result -= curr;  // subtract!
             } else {
-                result += curr;  // normal case!
+                result += curr;  // add!
             }
+            
+            prev = curr;  // prev update karo!
         }
+        
         return result;
-    }
-    
-    // helper method
-    private int getValue(char c){
-        switch(c){
-            case 'I': return 1;
-            case 'V': return 5;
-            case 'X': return 10;
-            case 'L': return 50;
-            case 'C': return 100;
-            case 'D': return 500;
-            case 'M': return 1000;
-            default: return 0;
-        }
     }
 }
