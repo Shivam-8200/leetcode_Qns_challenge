@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0739-daily-temperatures) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -143,8 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
