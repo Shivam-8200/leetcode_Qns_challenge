@@ -7,7 +7,6 @@ class MyStack {
             queue.add(queue.poll());
         }
     }
-
     public int pop() {
         return queue.poll();
     }
