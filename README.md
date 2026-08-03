@@ -169,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0232-implement-queue-using-stacks) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shivam-8200/leetcode_Qns_challenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
